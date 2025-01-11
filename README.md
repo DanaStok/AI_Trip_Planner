@@ -20,3 +20,4 @@ Welcome to the repository of AI Trip Planner, an advanced travel planning applic
 - **Frontend**: Next.js
 - **AI and Machine Learning**: OpenAI, Dall-E
 - **Travel APIs**: SerpApi (for flights and hotels)
+- **Containerization and Deployment**: Docker (used to containerize and deploy the application seamlessly)
